@@ -17,6 +17,7 @@ Here, N is normal distribution with 0 mean value. For the Laplacian mechanism, t
 Here, Lp is laplacian distribution with 0 mean value.
 
 # Plots
+The following plots are conducted on the MNIST dataset.
 ## Without Differential Privacy Method
 ![](images/non_dp_figures.PNG)
 

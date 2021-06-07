@@ -37,5 +37,5 @@ The following plots are conducted on the MNIST dataset.
 ## MNIST Handwritten Dataset
 https://pytorch.org/vision/stable/datasets.html
 
-## Parkinson's Disease Classification Data Set
+## Parkinson's Disease Classification Dataset
 https://archive.ics.uci.edu/ml/datasets/Parkinson%27s+Disease+Classification

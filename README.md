@@ -19,3 +19,9 @@ Here, Lp is laplacian distribution with 0 mean value.
 # Plots
 ## Without Differential Privacy Method
 ![](images/non_dp_figures.PNG)
+
+## Gaussian Differential Privacy Method
+![](images/gaussian_dp_figures.PNG)
+
+## Laplacian Differential Privacy Method
+![](images/laplacian_dp_figures.PNG)

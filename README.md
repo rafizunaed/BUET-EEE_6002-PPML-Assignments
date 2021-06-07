@@ -25,3 +25,16 @@ Here, Lp is laplacian distribution with 0 mean value.
 
 ## Laplacian Differential Privacy Method
 ![](images/laplacian_dp_figures.PNG)
+
+## Classification Accuracy and ROC versus epsilon
+![](images/acc_roc_vs_epsilon.PNG)
+
+## Classification Accuracy and ROC versus number of training samples
+![](images/acc_roc_vs_number_of_samples.PNG)
+
+# Datasets
+## MNIST Handwritten Dataset
+https://pytorch.org/vision/stable/datasets.html
+
+## Parkinson's Disease Classification Data Set
+https://archive.ics.uci.edu/ml/datasets/Parkinson%27s+Disease+Classification

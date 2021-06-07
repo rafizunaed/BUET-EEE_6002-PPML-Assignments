@@ -39,3 +39,11 @@ https://pytorch.org/vision/stable/datasets.html
 
 ## Parkinson's Disease Classification Dataset
 https://archive.ics.uci.edu/ml/datasets/Parkinson%27s+Disease+Classification
+
+# How to run the code
+```
+python final_assignment\run_final_assignment.py
+```
+```
+python mid_term_assignment\run_mid_term_assignment.py
+```

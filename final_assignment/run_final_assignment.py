@@ -563,9 +563,9 @@ if __name__ == '__main__':
     check_acc_roc_vs_epsilon_effect(iterations=5000, learning_rate=5, regularization_coefficient=0.001, method='laplace', data_norm=True, norm_order=1)
     
     # fig 7 for non_dp, gaussian, laplace
-    # check_acc_roc_vs_num_samples_effect(iterations=5000, method='non_dp', data_norm=False)
-    # check_acc_roc_vs_num_samples_effect(iterations=5000, method='gaussian', data_norm=True, norm_order=2)
-    # check_acc_roc_vs_num_samples_effect(iterations=5000, learning_rate=5, regularization_coefficient=0.001, method='laplace', data_norm=True, norm_order=1) 
+    check_acc_roc_vs_num_samples_effect(iterations=5000, method='non_dp', data_norm=False)
+    check_acc_roc_vs_num_samples_effect(iterations=5000, method='gaussian', data_norm=True, norm_order=2)
+    check_acc_roc_vs_num_samples_effect(iterations=5000, learning_rate=5, regularization_coefficient=0.001, method='laplace', data_norm=True, norm_order=1) 
     
     # plot mnist example
-    # plot_mnist_examples()
+    plot_mnist_examples()
